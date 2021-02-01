@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="assets/emoji/Screenshot_e1.png" width=300> <img src="assets/emoji/Screenshot_e2.png" width=300>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
